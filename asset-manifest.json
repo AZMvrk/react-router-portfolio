@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-router-layout/static/css/main.07dc280a.css",
-    "main.js": "/react-router-layout/static/js/main.8a95b775.js",
+    "main.css": "/react-router-layout/static/css/main.dc08d7cc.css",
+    "main.js": "/react-router-layout/static/js/main.d61a70b9.js",
     "static/media/todoListPage.mp4": "/react-router-layout/static/media/todoListPage.3c5c857d9b281f1220ce.mp4",
     "static/media/NFSFullneonBlack.jpg": "/react-router-layout/static/media/NFSFullneonBlack.8b016dd309c2c9cf9496.jpg",
     "static/media/todoListPageResponsive.mp4": "/react-router-layout/static/media/todoListPageResponsive.4fd4558b1a737233942e.mp4",
@@ -45,11 +45,11 @@
     "static/media/allPokemonWResp.PNG": "/react-router-layout/static/media/allPokemonWResp.713906b9377af56d7fbb.PNG",
     "static/media/allPokemonDResp.PNG": "/react-router-layout/static/media/allPokemonDResp.2889bec58bab50727515.PNG",
     "index.html": "/react-router-layout/index.html",
-    "main.07dc280a.css.map": "/react-router-layout/static/css/main.07dc280a.css.map",
-    "main.8a95b775.js.map": "/react-router-layout/static/js/main.8a95b775.js.map"
+    "main.dc08d7cc.css.map": "/react-router-layout/static/css/main.dc08d7cc.css.map",
+    "main.d61a70b9.js.map": "/react-router-layout/static/js/main.d61a70b9.js.map"
   },
   "entrypoints": [
-    "static/css/main.07dc280a.css",
-    "static/js/main.8a95b775.js"
+    "static/css/main.dc08d7cc.css",
+    "static/js/main.d61a70b9.js"
   ]
 }
