@@ -1,4 +1,5 @@
 import './App.css';
+import Header from './components/Header';
 import Home from './components/Home';
 import Pages from './components/Pages';
 import Gallery from './components/Gallery';
@@ -14,6 +15,7 @@ function App() {
 
   return (
     <BrowserRouter basename={process.env.PUBLIC_URL}>
+      <Header lang={true} /> {/* Adjust the 'lang' prop as needed */}
       <Routes>
         <Route path='/' element={<Home data={data} />} />  {/* 👈 Renders at /app/ */}
         <Route path='/pages' element={<Pages data={data} />} />

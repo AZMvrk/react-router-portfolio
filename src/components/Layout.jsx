@@ -11,7 +11,7 @@ function Layout({ children }) {
 
 	return (
 		<main>
-			<Header lang={lang} />
+			{/* <Header lang={lang} /> */}
 
 			{/* <button onClick={() => setLang(!lang) }>{lang ? "ENG" : "HUN"}</button> */}
 
